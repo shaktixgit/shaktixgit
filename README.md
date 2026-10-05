@@ -28,7 +28,7 @@
 
 ### ✦ About Me
 
-- 🎓 **Education**: B.Tech in Computer Science & Engineering (Data Science) from **Galgotias University** (2022 – 2026).
+- 🎓 **Education**: B.Tech in Computer Science & Engineering (Data Science) from **ITER, SOA UNIVERSITY** (2024-2028).
 - 💼 **Focus Areas**: Data Analytics, Predictive Modeling, Exploratory Data Analysis (EDA), and Modern Full Stack Architecture.
 - 🚀 **Currently Building**: Next-generation predictive pricing algorithms and responsive web systems.
 - 📜 **Certified In**: Data Analytics & Visualization by Google, Meta, IBM, Harvard University, Cisco, PwC, Microsoft, and Infosys.
